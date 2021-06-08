@@ -1,4 +1,5 @@
 help
+db. (tab)
 cls
 show dbs
 use wm
